@@ -1,7 +1,7 @@
-# Quantitative Analysis and Prediction of FAANG Stock Performance
+# Risk-Return Analysis of FAANG Tech Stocks
 
 ## Project Overview
-This project conducts a detailed quantitative analysis of the FAANG group of stocks, which includes Facebook, Apple, Amazon, Netflix, and Google. Using Python and libraries such as pandas and yfinance, this analysis dives into stock performance metrics including price changes, moving averages, daily return averages, and risk assessments over the past year. The project also explores the correlation between daily returns of these stocks and attempts to predict future stock behavior.
+This project conducts a detailed risk analysis of the FAANG group of stocks, which includes Facebook, Apple, Amazon, Netflix, and Google. Using Python and libraries such as pandas and yfinance, this analysis dives into stock performance metrics including price changes, moving averages, daily return averages, and risk assessments over the past year. The project also explores the correlation between daily returns of these stocks and attempts to predict future stock behavior.
 
 ## Objectives
 - **Price Change Analysis:** Explore how the stock prices of FAANG companies have changed over time.
